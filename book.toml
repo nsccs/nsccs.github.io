@@ -1,0 +1,6 @@
+[book]
+authors = ["Jared Scarr"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The NSCCS Workshop Collection"
