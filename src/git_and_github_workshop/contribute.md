@@ -13,7 +13,7 @@ upstream - points to the original repository that you forked
 
 The last concept for this workshop is called a Fork. A fork of a repository is a copy of that repository in your own GitHub space.
 
-To make a contribution to the original project you first fork the original repository
+To make a contribution to the original project you first fork the original repository. We will use [this one](https://github.com/nsccs/ForkPracticeCareerPrep).
 
 Then configure the upstream remote
 
