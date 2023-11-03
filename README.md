@@ -30,4 +30,5 @@ Read [Creating a Book](https://rust-lang.github.io/mdBook/guide/creating.html#cr
 ```
 
 Look at existing Chapters for further examples.
+Hosted at [https://nsccs.github.io/](https://nsccs.github.io/)
 
